@@ -1,0 +1,1 @@
+make release no-cache=no DOCKERFILE=v0.12/debian-logzio VERSION=v0.12.33-debian-logzio TAGS=v0.12.33-debian-logzio,v0.12-debian-logzio,debian-logzio
